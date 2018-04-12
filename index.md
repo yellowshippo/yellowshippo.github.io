@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## HORIE, Masanobu (堀江正信)
+A researcher, an engineer, and an enjoyer
 
-You can use the [editor on GitHub](https://github.com/yellowshippo/yellowshippo.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Research Interests
+- Physics
+  - Nonlinear System
+  - Complex System
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Mathematics
+  - Differential Geometry
+  - Information Geometry
+  - Functional analysis
 
-### Markdown
+- Machine Learning
+  - Deep learning
+  - Optimization of Numerical Simulation
+  - Natural Language Processing
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Programming Languages
+- Python
+- C++
+- Ruby
+- MATLAB
 
-```markdown
-Syntax highlighted code block
+## I/O
+(So far Japanese Only)
+- [Phys and Tips](http://blog.physips.com/) - Physics Blog
+- [Qiita](https://qiita.com/horiem) - Tech Blog
+- [Twitter](https://twitter.com/yellowshippo)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yellowshippo/yellowshippo.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Affiliations
+- [Research Institute for Computational Science Co. Ltd.](https://www.ricos.co.jp/)
+- [Nature Architects Inc.](http://nature-architects.com/)
