@@ -1,5 +1,5 @@
 ## HORIE, Masanobu (堀江正信)
-A researcher, an engineer, and an enjoyer
+A Researcher, an Engineer, and an Enjoyer
 
 ## Research Interests
 - Physics
@@ -9,10 +9,10 @@ A researcher, an engineer, and an enjoyer
 - Mathematics
   - Differential Geometry
   - Information Geometry
-  - Functional analysis
+  - Functional Analysis
 
 - Machine Learning
-  - Deep learning
+  - Deep Learning
   - Optimization of Numerical Simulation
   - Natural Language Processing
 
