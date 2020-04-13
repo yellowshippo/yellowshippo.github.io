@@ -2,6 +2,10 @@
 A Researcher, an Engineer, and an Enjoyer
 
 ## Research Interests
+- Machine Learning for Numerical Analysis
+- Mathematical Optimization
+
+## (Non-research) Interests
 - Physics
   - Nonlinear System
   - Complex System
@@ -10,11 +14,6 @@ A Researcher, an Engineer, and an Enjoyer
   - Differential Geometry
   - Information Geometry
   - Functional Analysis
-
-- Machine Learning
-  - Deep Learning
-  - Optimization of Numerical Simulation
-  - Natural Language Processing
 
 ## Programming Languages
 - Python
@@ -30,4 +29,4 @@ A Researcher, an Engineer, and an Enjoyer
 
 ## Affiliations
 - [Research Institute for Computational Science Co. Ltd.](https://www.ricos.co.jp/)
-- [Nature Architects Inc.](http://nature-architects.com/)
+- [University of Tsukuba](http://www.tsukuba.ac.jp/), PhD student
