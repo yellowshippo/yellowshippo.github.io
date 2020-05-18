@@ -1,4 +1,6 @@
-title: HORIE, Masanobu
+title: Horie, Masanobu
 description: >-
   Machine Learning for Numerical Analysis
 theme: jekyll-theme-slate
+github:
+  is_project_page: false
