@@ -18,7 +18,7 @@ A Researcher, an Engineer, and an Enjoyer
 ## Publications
 
 ### Refereed Conference papers
-* __M. Horie__, N. Morita, T. Hishinuma, Y. Ihara, N. Mitsume. [Isometric Transformation Invariant and Equivariant Graph Convolutional Networks](https://openreview.net/forum?id=FX0vR39SJ5q). In International Conference on Learning Representations (ICLR), 2021. [[arXiv](https://arxiv.org/abs/2005.06316)]
+* __M. Horie__, N. Morita, T. Hishinuma, Y. Ihara, N. Mitsume. [Isometric Transformation Invariant and Equivariant Graph Convolutional Networks](https://openreview.net/forum?id=FX0vR39SJ5q), In International Conference on Learning Representations (ICLR), 2021. [[arXiv](https://arxiv.org/abs/2005.06316)]
 
 ### Refereed Journal Papers
 * __M. Horie__, T. Sakurai, H. Kitahata. [Experimental and theoretical approach for the clustering of globally coupled density oscillators based on phase response](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.93.012212), Physical Review E, Vol. 93, No. 1, p. 012212, 2016.
