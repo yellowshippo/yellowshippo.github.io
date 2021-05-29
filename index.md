@@ -2,7 +2,7 @@
 A Researcher, an Engineer, and an Enjoyer
 
 ## Research Interests
-- Machine Learning for Numerical Analysis
+- Machine Learning for Physical Simulation
 - Mathematical Optimization
 
 ## (Non-research) Interests
@@ -31,6 +31,9 @@ A Researcher, an Engineer, and an Enjoyer
 * __M. Horie__. Clustering phenomena in a-few-coupled density oscillators, The International Symposium on "Self-organization and Emergent Dynamics in Active Soft Matter", February 2013.
 
 ### Conferences (Japanese)
+* __堀江正信__, 森田直樹, 三目直登. グラフニューラルネットワークを用いた機械学習による有限要素解析の高速化, 第 26 回計算工学講演会, 2021年2月.
+* __堀江正信__. 物理シミュレーションのための同変グラフニューラルネットワーク, ディープラーニングと物理学, 2021年2月.
+* __堀江正信__, 森田直樹, 菱沼利彰, 井原遊, 三目直登. Graph convolutional network を用いたメッシュベース数値解析に関して, 第 63 回 FrontISTR 研究会, 2021年2月.
 * __堀江正信__, 森田直樹, 菱沼利彰, 井原遊, 三目直登. Graph convolutional network を用いたメッシュベース数値解析の汎用的な学習, オープンCAE・FrontISTR合同シンポジウム2020, C-3, オンライン開催, 2020年12月.
 * __堀江正信__, 森田直樹, 菱沼利彰, 井原遊, 三目直登. 合同変換不変性・同変性を持つ Graph Convolutional Network による物理シミュレーションの汎用的な学習, 65, 第 23 回情報論的学習理論ワークショップ, オンライン開催, 2020年11月.
 * __堀江正信__, 森田直樹, 井原遊, 三目直登. グラフニューラルネットワークを用いたメッシュベース数値解析の汎用的な学習, 日本計算工学会, 第25回計算工学講演会講演論文集, Vol. 25, B-05-03, 2020年6月.
