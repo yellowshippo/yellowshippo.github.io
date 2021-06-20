@@ -3,7 +3,8 @@ A Researcher, an Engineer, and an Enjoyer
 
 ## Research Interests
 - Machine Learning for Physical Simulation
-- Mathematical Optimization
+- Graph Neural Network
+- Group Equivariant Neural Network
 
 ## (Non-research) Interests
 - Physics
