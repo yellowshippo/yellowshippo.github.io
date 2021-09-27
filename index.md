@@ -29,7 +29,7 @@ A Researcher, an Engineer, and an Enjoyer
 * 森田直樹, __堀江正信__, 須藤 海. [有限要素離散化した frame field による二次元メッシュ生成](https://www.jstage.jst.go.jp/article/transjsme/86/882/86_19-00337/_article/-char/ja). 日本機械学会論文集, Vol. 86, No. 882, p. 19-00337, 2020.
 
 ### Conferences (International)
-* M. Horie, N. Morita, N. Mitsume. Equivariant graph neural network–based surrogate models for finite element analyses. Mechanistic Machine Learning and Digital Twins for Computational Science, Engineering & Technology, September 2021.
+* __M. Horie__, N. Morita, N. Mitsume. Equivariant graph neural network–based surrogate models for finite element analyses. Mechanistic Machine Learning and Digital Twins for Computational Science, Engineering & Technology, September 2021.
 * __M. Horie__. Clustering phenomena in a-few-coupled density oscillators. The International Symposium on "Self-organization and Emergent Dynamics in Active Soft Matter", February 2013.
 
 ### Conferences (Japanese)
