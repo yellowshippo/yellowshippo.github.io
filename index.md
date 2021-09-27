@@ -45,6 +45,10 @@ A Researcher, an Engineer, and an Enjoyer
 ### Miscellaneous
 * __堀江正信__, 井原遊, 森田直樹. 高速な最適設計のためのシミュレーションと機械学習. 計算工学, 日本計算工学会, Vol. 24, No. 4, pp. 13-16, 2019年.
 
+## Grants
+* __Masanobu Horie__. Fluid Modeling Using a Combination of Numerical Analysis and Machine Learning. Strategic Basic Research Programs (PRESTO), Japan Science and Technology Agency, Japan, October 2021 - March 2025.
+* Tomonori Kanno, __Masanobu Horie__, Yu Ihara, Naoki Morita. Development of an Automatic Hexahedral Mesher for Innovating the CAE Process. IPA Mitou advanced, Information-technology Promotion Agency, Japan, September 2017 - Feburary 2018.
+
 ## Programming Languages
 - Python
 - C++
