@@ -67,4 +67,3 @@ A Researcher, an Engineer, and an Enjoyer
 
 ## Affiliations
 - [Research Institute for Computational Science Co. Ltd.](https://www.ricos.co.jp/)
-- [Mitsume Lab](http://www.kz.tsukuba.ac.jp/~mitsume/index.html), University of Tsukuba (PhD student)
