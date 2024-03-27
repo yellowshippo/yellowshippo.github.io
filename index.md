@@ -29,23 +29,6 @@ A Researcher, an Engineer, and an Enjoyer
 * __堀江正信__, 森田直樹, 井原遊, 三目直登. [グラフニューラルネットワークを用いたメッシュベース数値解析の汎用的な学習](https://doi.org/10.11421/jsces.2020.20201005). 日本計算工学会論文集, No. 1, Vol. 2020, p. 20201005, 2020.
 * 森田直樹, __堀江正信__, 須藤 海. [有限要素離散化した frame field による二次元メッシュ生成](https://www.jstage.jst.go.jp/article/transjsme/86/882/86_19-00337/_article/-char/ja). 日本機械学会論文集, Vol. 86, No. 882, p. 19-00337, 2020.
 
-### Conferences (International)
-* __M. Horie__, T. Hishinuma. Accelerating Simulation Process Using GPUs and Reliable Neural Networks. NVIDIA GPU technology conference, March 2022.
-* __M. Horie__, N. Morita, N. Mitsume. Equivariant graph neural network–based surrogate models for finite element analyses. Mechanistic Machine Learning and Digital Twins for Computational Science, Engineering & Technology, September 2021.
-* __M. Horie__. Clustering phenomena in a-few-coupled density oscillators. The International Symposium on "Self-organization and Emergent Dynamics in Active Soft Matter", February 2013.
-
-### Conferences (Japanese)
-* __堀江正信__. 同変グラフニューラルネットワークによる物理現象の特性を反映させた流動現象の学習. 第 45 回情報論的学習理論と機械学習研究会, 2022年3月.
-* __堀江正信__. 物理現象の特性を反映させたグラフニューラルネットワークによる物理シミュレーションの高速化. 日本応用数理学会 数理設計研究部会 第 23 回研究集会, 2021年12月.
-* __堀江正信__, 森田直樹, 三目直登. グラフニューラルネットワークを用いた機械学習による有限要素解析の高速化. 第 26 回計算工学講演会, 2021年5月.
-* __堀江正信__. 物理シミュレーションのための同変グラフニューラルネットワーク, ディープラーニングと物理学. 2021年4月.
-* __堀江正信__, 森田直樹, 菱沼利彰, 井原遊, 三目直登. Graph convolutional network を用いたメッシュベース数値解析に関して. 第 63 回 FrontISTR 研究会, 2021年2月.
-* __堀江正信__, 森田直樹, 菱沼利彰, 井原遊, 三目直登. Graph convolutional network を用いたメッシュベース数値解析の汎用的な学習. オープンCAE・FrontISTR合同シンポジウム2020, C-3, オンライン開催, 2020年12月.
-* __堀江正信__, 森田直樹, 菱沼利彰, 井原遊, 三目直登. 合同変換不変性・同変性を持つ Graph Convolutional Network による物理シミュレーションの汎用的な学習. 65, 第 23 回情報論的学習理論ワークショップ, オンライン開催, 2020年11月.
-* __堀江正信__, 森田直樹, 井原遊, 三目直登. グラフニューラルネットワークを用いたメッシュベース数値解析の汎用的な学習. 日本計算工学会, 第25回計算工学講演会講演論文集, Vol. 25, B-05-03, 2020年6月.
-* __堀江正信__, 北畑裕之, 櫻井建成. 密度差振動子の少数結合系におけるクラスター化現象. 第22回「非線形反応と協同現象」研究会, 2012年12月.
-* __堀江正信__. 塩水振動子の少数結合系におけるクラスター化現象. 日本物理学会 2012年秋季大会, 2012年9月.
-
 ### Miscellaneous
 * __堀江正信__, 井原遊, 森田直樹. 高速な最適設計のためのシミュレーションと機械学習. 計算工学, 日本計算工学会, Vol. 24, No. 4, pp. 13-16, 2019年.
 
@@ -66,4 +49,4 @@ A Researcher, an Engineer, and an Enjoyer
 - [Twitter](https://twitter.com/yellowshippo)
 
 ## Affiliations
-- [Research Institute for Computational Science Co. Ltd.](https://www.ricos.co.jp/)
+- [RICOS Co. Ltd.](https://www.ricos.co.jp/)
