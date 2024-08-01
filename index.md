@@ -20,7 +20,6 @@ A Researcher, an Engineer, and an Enjoyer
 
 ### Refereed Conference papers
 * __M. Horie__ and N. Mitsume. [Graph Neural PDE Solvers with Conservation and Similarity-Equivariance](https://openreview.net/forum?id=WajJf47TUi). In International Conference on Machine Learning (ICML), 2024. [[arXiv](https://arxiv.org/abs/2405.16183)]
-Physics-Embedded Neural Networks: Graph Neural PDE Solvers with Mixed Boundary Conditions](https://openreview.net/forum?id=B3TOg-YCtzo). In Neural Information Processing Systems (NeurIPS), 2022. [[arXiv](https://arxiv.org/abs/2205.11912)]
 * __M. Horie__ and N. Mitsume. [Physics-Embedded Neural Networks: Graph Neural PDE Solvers with Mixed Boundary Conditions](https://openreview.net/forum?id=B3TOg-YCtzo). In Neural Information Processing Systems (NeurIPS), 2022. [[arXiv](https://arxiv.org/abs/2205.11912)]
 * __M. Horie__, N. Morita, T. Hishinuma, Y. Ihara, N. Mitsume. [Isometric Transformation Invariant and Equivariant Graph Convolutional Networks](https://openreview.net/forum?id=FX0vR39SJ5q). In International Conference on Learning Representations (ICLR), 2021. [[arXiv](https://arxiv.org/abs/2005.06316)]
 
