@@ -51,3 +51,4 @@ A Researcher, an Engineer, and an Enjoyer
 
 ## Affiliations
 - [RICOS Co. Ltd.](https://www.ricos.co.jp/)
+- [Structured Learning Team, RIKEN Center for Advanced Intelligence Project](https://www.riken.jp/en/research/labs/aip/generic_tech/struct_learn/index.html) (as a visiting scientist)
